@@ -1,0 +1,10 @@
+Photos/beach.jpg,JPG,18.8,Igor,1
+Photos/cave.jpg,JPG,20.0,Igor,2
+Photos/clouds.jpg,JPG,20.0,Igor,3
+Photos/flowers.jpg,JPG,20.0,Igor,4
+Photos/mountains.jpg,JPG,20.0,Igor,5
+Photos/mountains2.jpg,JPG,20.0,Igor,6
+Photos/palmtree.jpg,JPG,20.0,Igor,7
+Photos/sunset.jpg,JPG,20.0,Igor,8
+Photos/sunset2.jpg,JPG,20.0,Igor,9
+Photos/treelogs.jpg,JPG,20.0,Igor,10
